@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachel!</h1>
-<h3 align="center">A Bachelor of Science in Computer Science. My motivation lies in creating technological solutions that add value and improve people's lives. I am a proactive, hardworking and committed person, who adapts easily to changes and is always looking for new challenges to keep growing personally and professionally.</h3>
+<h3 align="center">Backend Software Engineer. My motivation lies in creating technological solutions that add value and improve people's lives. I am a proactive, hardworking and committed person, who adapts easily to changes and is always looking for new challenges to keep growing personally and professionally.</h3>
 
 - 🌱 I’m currently learning **Docker and Clean architecture**
 
